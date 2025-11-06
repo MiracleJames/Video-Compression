@@ -1,0 +1,4 @@
+System,Codebook Init,Adaptive Stage,Avg PSNR (dB),Bitrate (kbps),Compression Ratio
+Original (Uncompressed),-,-,∞,-,1.0
+RVQ,K-means++,No,31.67,4243.6,22.94
+Adaptive RVQ,K-means++,Random Forest,31.67,4141.29,23.5
